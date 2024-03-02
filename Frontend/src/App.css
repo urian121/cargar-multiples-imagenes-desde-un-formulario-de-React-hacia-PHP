@@ -51,3 +51,8 @@ h2 {
 .border-right {
   border-right: 1px solid #7366ff;
 }
+.preview_flex_imgs {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+}

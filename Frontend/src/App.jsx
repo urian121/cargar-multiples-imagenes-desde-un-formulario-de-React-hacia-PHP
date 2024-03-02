@@ -1,11 +1,11 @@
-import SubirImagen from "./components/SubirImagen";
+import SubirImagenes from "./components/SubirImagenes";
 
 import "./App.css";
 
 function App() {
   return (
     <>
-      <SubirImagen />
+      <SubirImagenes />
     </>
   );
 }
